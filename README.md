@@ -17,7 +17,7 @@ I am a passionate **Mobile App Developer** focused on building high-quality, rob
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,java,git,github,linux,neovim&per=4" alt="Tech Stack Icons">
 </p>
 
@@ -25,7 +25,7 @@ I am a passionate **Mobile App Developer** focused on building high-quality, rob
 
 ### 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:itstarunwadhwani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
