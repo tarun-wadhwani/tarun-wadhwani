@@ -18,7 +18,7 @@ I am a passionate **Mobile App Developer** focused on building high-quality, rob
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?gif=kotlin,flutter,dart,java,git,github,linux,neovim&per=4" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,java,git,github,linux,neovim&per=4" alt="Tech Stack Icons">
 </p>
 
 ---
